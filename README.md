@@ -1,3 +1,13 @@
+
+- 👋 Hi, I’m Bayu Pratama Agus Kurniawan
+- 👀 I’m interested in Android Developing 
+- 🌱 I’m currently learning Software Enginering
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me instagram @bayupra7ama
+- 😄 Pronouns: He
+- Linked in = https://www.linkedin.com/in/bayu-pratama-agus-kurniawan-770798309/?originalSubdomain=id
+
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/dimasmds">
@@ -6,12 +16,6 @@
 </a>
 </p>
 
-- 👋 Hi, I’m @bayupra7ama
-- 👀 I’m interested in Android Developing 
-- 🌱 I’m currently learning Software Enginering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram @bayupra7ama
-- 😄 Pronouns: He
 
 
 
