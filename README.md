@@ -8,15 +8,19 @@
   <a href="https://www.instagram.com/bayupra7ama/"><img src="https://img.shields.io/badge/Instagram-@bayupra7ama-132235?style=for-the-badge&amp;logo=instagram&amp;logoColor=e1c38a" alt="Instagram bayupra7ama" /></a>
 </p>
 
-## Building software for everyday work.
+# Bayu Pratama Agus Kurniawan
+
+**Software Developer · Web & Mobile Applications · Bengkalis, Indonesia**
+
+Building practical applications with Laravel, Flutter, Kotlin, and Firebase.
 
 I'm **Bayu Pratama Agus Kurniawan**, a developer working across web applications, Android, and Flutter. My projects explore how software can support everyday operations—from sales and school monitoring to public services and location-based mobile experiences.
 
-I work with **Laravel** for web applications and backend services, **Kotlin** and **Flutter** for mobile development, and **Firebase** for authentication and application data. I continue to develop my software engineering skills through practical projects.
+I work with **Laravel** for web applications and backend services, **Kotlin** and **Flutter** for mobile development, and **Firebase** for authentication and application data. My portfolio brings together business applications, education tools, public-service workflows, and Android development.
 
 <br />
 
-### 01 / Development focus
+## Development focus
 
 | Web & backend | Mobile applications | Applied integrations |
 | :--- | :--- | :--- |
@@ -24,7 +28,7 @@ I work with **Laravel** for web applications and backend services, **Kotlin** an
 
 <br />
 
-### 02 / Selected projects
+## Selected projects
 
 <table>
 <tr>
@@ -96,7 +100,7 @@ An auto-reply chatbot project for reporting network issues at Pekanbaru governme
 
 <br />
 
-### 03 / Technologies I work with
+## Technologies I work with
 
 <p>
   <img src="https://img.shields.io/badge/PHP-182638?style=flat-square&amp;logo=php&amp;logoColor=c6b6ef" alt="PHP" />
@@ -113,9 +117,11 @@ An auto-reply chatbot project for reporting network issues at Pekanbaru governme
 
 <br />
 
-### 04 / Let's connect
+## Contact
 
 Interested in discussing a web application, mobile experience, or a project in this portfolio? Connect with me on [LinkedIn](https://www.linkedin.com/in/bayu-pratama-agus-kurniawan-770798309/) or [Instagram](https://www.instagram.com/bayupra7ama/).
+
+**GitHub:** [@bayupra7ama](https://github.com/bayupra7ama) · **Name:** Bayu Pratama Agus Kurniawan
 
 You can also explore my [public repositories](https://github.com/bayupra7ama?tab=repositories) for source code and implementation details.
 
