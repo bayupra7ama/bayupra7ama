@@ -90,14 +90,14 @@ A mobile and backend system for students and supervisors to manage projects, tas
 </td>
 <td width="50%" valign="top">
 
-### 🏘️ Desa Cantik
-**Village information & public-service platform**
+### 🏫 School Habit Monitoring
+**7 Kebiasaan Anak Indonesia Hebat platform**
 
-A village-focused web platform built around public information, administrative workflows, and data presentation using a Laravel-based CMS stack.
+A multi-role Laravel application connecting administrators, teachers, and parents through student habit journals, learning materials, feedback, WhatsApp OTP verification, and Excel reporting.
 
-**PHP · Laravel 12 · October CMS**
+**Laravel 12 · WhatsApp OTP · Role-Based Access · Excel**
 
-[View repository →](https://github.com/bayupra7ama/desacantik)
+[View repository →](https://github.com/bayupra7ama/monitoring-7KAIH-sekolah)
 
 </td>
 </tr>
@@ -136,7 +136,6 @@ A shopping-service storefront built with Laravel and Livewire, including authent
 
 | Project | Engineering focus |
 | --- | --- |
-| [School Habit Monitoring](https://github.com/bayupra7ama/monitoring-7KAIH-sekolah) | Laravel-based student habit monitoring and school workflow |
 | [Lapor Infra](https://github.com/bayupra7ama/chatbot_autoreplay_with_laravel) | Infrastructure reporting and chatbot-assisted workflow |
 | [Google Maps Review Scraper](https://github.com/bayupra7ama/scraping_googleMaps_review_with_selenium) | Python / Selenium automation and data extraction |
 | [Sistem Informasi Desa](https://github.com/bayupra7ama/Sistem-Informasi-Desa-Laravel) | Laravel village information system |
