@@ -18,7 +18,7 @@ export default function ResumePage() {
       <main className="resume-page">
         <div className="resume-toolbar no-print">
           <Link href="/">← Back to portfolio</Link>
-          <button onClick={undefined} className="print-hint" aria-label="Use your browser print command">Print / Save PDF: Ctrl or Cmd + P</button>
+          <span className="print-hint">Print / Save PDF: Ctrl or Cmd + P</span>
         </div>
 
         <section className="resume-head">
